@@ -1,6 +1,6 @@
 /*:
 * @author Lu,fer
-* @plugindesc Thời gian
+* @plugindesc Thơi gian hơi thực, có thể tuỳ chỉnh theo ý thích.
 * 
 * @help
 * v1.0 Lu,fer Clock
