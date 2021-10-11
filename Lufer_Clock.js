@@ -414,7 +414,7 @@ var _ssum = params["Tháng Hạ"]
 var _sfal = params["Tháng Thu"]
 var _swin = params["Tháng Đông"]
 // Other
-var _msts = params["Game Mins"]
+var _msts = params["Thời gian trên ms"]
 var _htd = params["Giờ trong ngày"]
 var _mth = params["Phút trong giờ"]
 // Command
